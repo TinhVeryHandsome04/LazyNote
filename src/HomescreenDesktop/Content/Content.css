@@ -7,14 +7,11 @@
     padding: 70px 85px 72px 80px;
     display: flex;
     flex-direction: row;
-    gap: 10px;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: flex;
+    margin: auto;
     width: 1340px;
     height: 570px;
-    position: absolute;
-    left: 82px;
-    top: 132px;
 }
 .hero .frame{
     display: flex;
